@@ -1,0 +1,1 @@
+Sample to the github actions
